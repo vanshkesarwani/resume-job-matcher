@@ -1,0 +1,24 @@
+# Python
+backend/venv/
+backend/.venv/
+**/__pycache__/
+*.pyc
+
+# Uploads & Data
+backend/uploads/
+uploads/
+backend/data/
+data/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Env & secrets
+.env
+*.local
+
+# OS & Editor
+.DS_Store
+.vscode/
+.idea/
